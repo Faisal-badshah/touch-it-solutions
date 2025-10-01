@@ -219,14 +219,14 @@ const Services = () => {
               Let's discuss how our expert services can drive your business
               forward with innovative technology solutions.
             </p>
-            <motion.a
+            <Link
               href="contact"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               className="inline-flex items-center px-8 py-4 bg-gradient-to-r from-red-600 to-red-500 text-white font-semibold rounded-lg hover:from-red-500 hover:to-red-400 transition-all duration-300 shadow-lg shadow-red-500/25"
             >
               Get Started Today
-            </motion.a>
+            </Link>
           </motion.div>
         </div>
       </section>
