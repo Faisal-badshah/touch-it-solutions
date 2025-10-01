@@ -167,7 +167,7 @@ const Home = () => {
               to="/contact"
               className="inline-flex items-center px-8 py-4 bg-gradient-to-r from-red-600 to-red-500 text-white font-semibold rounded-lg hover:from-red-500 hover:to-red-400 transition-all duration-300 transform hover:scale-105 shadow-lg shadow-red-500/25"
             >
-              Discover More
+              Let’s Connect
               <ArrowRight className="ml-2" size={20} />
             </Link>
           </motion.div>
